@@ -1,4 +1,4 @@
 - 👋 ola meu nome é @yongnari
-- 👍 meu email de contato é amanda.neidert@escola.pr.gov.br
+- 👍 meu email de contato é [email] (amanda.neidert@escola.pr.gov.br)
 - 👀 estou interessado em aprender a programar novas linguagens.
 - 🌱 eu estou aprendendo a programar rescentemente a linguagem de JavaScript e scratch
